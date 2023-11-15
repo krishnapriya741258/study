@@ -1,0 +1,8 @@
+## position argument passing
+
+def addval(a,b):
+    print(a+b)
+
+addval(2,3)
+addval(4,6)
+addval(6,3)
